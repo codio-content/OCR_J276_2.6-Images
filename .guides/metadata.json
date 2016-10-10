@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "9a8c0b42-6a43-3d72-04ff-212a756e5f2e",
+   "title": "Images",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Images-9a8c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2297cb9f-0456-681a-88e2-724cd061b375",
+   "title": "Images and pixels",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Images-and-pixels-2297.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9e1166b7-bbb0-c86d-2291-12777296b57c",
+   "title": "Colour depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Colour-depth-9e11.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "11bd424d-7a05-2528-5b22-64d4e25e458a",
+   "title": "File size",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-size-11bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d2f537c6-d793-705e-2ec4-5fec245dcb00",
+   "title": "Metadata",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Metadata-d2f5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "de2d1e7f-ab4b-fdf4-bbe3-15854528065c",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-de2d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "67a307d3-2b8b-1bbb-a812-0e30f6299fd6",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-67a3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

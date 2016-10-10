@@ -1,0 +1,128 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4287979400",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "A digital image is composed of many small points of colour called <<<pixels>>> which stands for <<<picture elements>>>. \nThe <<<size>>> of an image is given as the number in its <<<width>>> and the number in its height. ",
+   "tokens": {
+    "blank": [
+     "pixels",
+     "picture elements",
+     "size",
+     "width"
+    ],
+    "text": [
+     "A digital image is composed of many small points of colour called ",
+     0,
+     " which stands for ",
+     0,
+     ". \nThe ",
+     0,
+     " of an image is given as the number in its ",
+     0,
+     " and the number in its height. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-945966179",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<colour depth>>> refers to the number of <<<bits>>> used to store the data about each <<<pixel>>>. \nIf <<<3>>> are used then the total number of colours is <<<8>>>. \nModern images use <<<24>>> and this is referred to as <<<true colour>>>.\n",
+   "tokens": {
+    "blank": [
+     "colour depth",
+     "bits",
+     "pixel",
+     "3",
+     "8",
+     "24",
+     "true colour"
+    ],
+    "text": [
+     "The ",
+     0,
+     " refers to the number of ",
+     0,
+     " used to store the data about each ",
+     0,
+     ". \nIf ",
+     0,
+     " are used then the total number of colours is ",
+     0,
+     ". \nModern images use ",
+     0,
+     " and this is referred to as ",
+     0,
+     ".\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2334223001",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Calculate the size in megabytes of the following image. Display your answer to the nearest lower integer.**",
+   "points": "1",
+   "showValues": false,
+   "text": "2120 x 1356 with a colour depth of 24: <<<8.6Mb>>>",
+   "tokens": {
+    "blank": [
+     "8.6Mb"
+    ],
+    "text": [
+     "2120 x 1356 with a colour depth of 24: ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2127170478",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The technical and descriptive information stored with images is called <<<metadata>>>. \nIt can include the <<<type>>> of camera used and the <<<dimensions>>> of the image. \nThe <<<location>>> where the image was taken can be included if the camera has <<<GPS>>> facilities.\n",
+   "tokens": {
+    "blank": [
+     "metadata",
+     "type",
+     "dimensions",
+     "location",
+     "GPS"
+    ],
+    "text": [
+     "The technical and descriptive information stored with images is called ",
+     0,
+     ". \nIt can include the ",
+     0,
+     " of camera used and the ",
+     0,
+     " of the image. \nThe ",
+     0,
+     " where the image was taken can be included if the camera has ",
+     0,
+     " facilities.\n"
+    ]
+   }
+  }
+ }
+]
