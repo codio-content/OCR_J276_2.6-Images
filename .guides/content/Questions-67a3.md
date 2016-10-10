@@ -15,7 +15,7 @@ Modern images use **24** and this is referred to as **true colour**.
 {Check It!|assessment}(fill-in-the-blanks-2334223001)
 |||guidance
 # Solution
-2120 x 1356 with a colour depth of 24: **8.6Mb**
+2120 x 1356 with a colour depth of 24: **8** megabytes
 |||
 {Check It!|assessment}(fill-in-the-blanks-2127170478)
 |||guidance
