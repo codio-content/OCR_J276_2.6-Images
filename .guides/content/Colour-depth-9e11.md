@@ -5,7 +5,7 @@ In a black and white image (2 colours) only 1 bit is needed – if it is set to 
 If 2 bits are used for each pixel, then 4 colours can be represented and eight colours if 3 bits are used.
 These can be represented by powers of two.
 
-![](.guides/img/colourd.png)
+![](.guides/img/table.png)
 
 This number of bits produces such a realistic image it is described as being ‘true colour’.
 
