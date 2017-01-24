@@ -79,14 +79,15 @@
    "instructions": "**Calculate the size in megabytes of the following image. Display your answer to the nearest lower integer.**",
    "points": "1",
    "showValues": false,
-   "text": "2120 x 1356 with a colour depth of 24: <<<8.6Mb>>>",
+   "text": "2120 x 1356 with a colour depth of 24: <<<8>>> megabytes",
    "tokens": {
     "blank": [
-     "8.6Mb"
+     "8"
     ],
     "text": [
      "2120 x 1356 with a colour depth of 24: ",
-     0
+     0,
+     " megabytes"
     ]
    }
   }
